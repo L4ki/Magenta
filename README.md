@@ -1,0 +1,2 @@
+# Magenta
+Plasma Theme
