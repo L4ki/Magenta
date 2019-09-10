@@ -23,7 +23,7 @@
    version="1.0"
    viewBox="0 0 188 124.00001">
   <sodipodi:namedview
-     inkscape:window-height="1003"
+     inkscape:window-height="977"
      inkscape:window-width="1280"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -34,9 +34,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="11.313708"
-     inkscape:cx="106.06914"
-     inkscape:cy="28.093612"
+     inkscape:zoom="8"
+     inkscape:cx="112.31328"
+     inkscape:cy="44.304351"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="layer2"
@@ -1099,7 +1099,7 @@
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.5;fill:#ffff00;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#ff55ff;fill-opacity:1;stroke:none"
          id="rect4999-0-5-05"
          width="26"
          height="0.99999988"
@@ -2124,7 +2124,7 @@
       <rect
          class="ColorScheme-Highlight"
          transform="scale(1,-1)"
-         style="color:#3daee9;opacity:0.5;fill:#ffff00;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#ff55ff;fill-opacity:1;stroke:none"
          id="rect4999-2-4-8"
          width="26"
          height="0.99999988"
@@ -3208,7 +3208,7 @@
        style="fill:#0090ad;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0.5;fill:#ffff00;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#ff55ff;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-1"
          width="1"
          height="26.000191"
@@ -4327,7 +4327,7 @@
        style="fill:#0090ad;fill-opacity:1">
       <rect
          transform="matrix(0,1,1,0,0,0)"
-         style="opacity:0.5;fill:#ffff00;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#ff55ff;fill-opacity:1;stroke:none"
          id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-1-2"
          width="1"
          height="26.000191"
