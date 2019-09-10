@@ -19,3 +19,8 @@ Changelog: 21.08.2019.
 ----------------------
 
 Icons added: battery.svg, input.svg
+
+Changelog: 10.09.2019.
+----------------------
+
+Modified widget: tasks.svg
