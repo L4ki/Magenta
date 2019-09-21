@@ -24,3 +24,8 @@ Changelog: 10.09.2019.
 ----------------------
 
 Modified widget: tasks.svg
+
+Changelog: 21.09.2019.
+---------------------
+
+Modified widget: clock.svg
