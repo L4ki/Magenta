@@ -29,3 +29,13 @@ Changelog: 21.09.2019.
 ---------------------
 
 Modified widget: clock.svg
+
+Changelog: 08.10.2019.
+----------------------
+
+Icon correction: media.svg
+
+Icon Removed: preferences.svg
+
+Corrected widget: actionbutton.svg
+
