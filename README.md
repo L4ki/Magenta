@@ -39,3 +39,8 @@ Icon Removed: preferences.svg
 
 Corrected widget: actionbutton.svg
 
+Changelog: 18.10.2019.
+----------------------
+
+Added widget: listitem.svg
+
