@@ -44,3 +44,10 @@ Changelog: 18.10.2019.
 
 Added widget: listitem.svg
 
+Changelog: 19.11.2019.
+----------------------
+
+Widget correction: tasks.svg
+
+Modified Icons: applications.svg, bookmarks.svg, computer.svg, system.svg, view.svg, start.svg
+
