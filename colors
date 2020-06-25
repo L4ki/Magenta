@@ -24,11 +24,11 @@ BackgroundNormal=37,42,53
 DecorationFocus=222,148,222
 DecorationHover=126,84,126
 ForegroundActive=113,75,113
-ForegroundInactive=189,195,199
+ForegroundInactive=178,198,204
 ForegroundLink=255,85,255
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=161,180,186
+ForegroundNormal=192,214,221
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
@@ -42,7 +42,7 @@ ForegroundInactive=175,176,179
 ForegroundLink=255,85,255
 ForegroundNegative=237,21,21
 ForegroundNeutral=134,44,134
-ForegroundNormal=161,180,186
+ForegroundNormal=192,214,221
 ForegroundPositive=17,209,22
 ForegroundVisited=132,44,132
 
@@ -66,11 +66,11 @@ BackgroundNormal=37,42,53
 DecorationFocus=222,148,222
 DecorationHover=126,84,126
 ForegroundActive=139,93,139
-ForegroundInactive=189,195,199
+ForegroundInactive=178,198,204
 ForegroundLink=255,85,255
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=161,180,186
+ForegroundNormal=192,214,221
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
@@ -80,11 +80,11 @@ BackgroundNormal=37,42,53
 DecorationFocus=222,148,222
 DecorationHover=126,84,126
 ForegroundActive=158,105,158
-ForegroundInactive=189,195,199
+ForegroundInactive=178,198,204
 ForegroundLink=255,85,255
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=161,180,186
+ForegroundNormal=192,214,221
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
@@ -94,11 +94,11 @@ BackgroundNormal=37,42,53
 DecorationFocus=222,148,222
 DecorationHover=126,84,126
 ForegroundActive=135,90,135
-ForegroundInactive=189,195,199
+ForegroundInactive=178,198,204
 ForegroundLink=255,170,255
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=161,180,186
+ForegroundNormal=192,214,221
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
@@ -112,8 +112,8 @@ contrast=4
 
 [WM]
 activeBackground=37,42,53
-activeBlend=161,180,186
-activeForeground=161,180,186
+activeBlend=192,214,221
+activeForeground=192,214,221
 inactiveBackground=37,42,53
 inactiveBlend=37,42,53
-inactiveForeground=127,140,141
+inactiveForeground=159,177,182

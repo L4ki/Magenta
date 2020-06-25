@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   width="30"
-   height="30"
-   version="1.1"
-   viewBox="0 0 30 30"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="bar_meter_horizontal.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   viewBox="0 0 30 30"
+   version="1.1"
+   height="30"
+   width="30"
+   id="svg2">
   <metadata
      id="metadata29">
     <rdf:RDF>
@@ -28,123 +28,143 @@
   <defs
      id="defs27" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     id="namedview25"
-     showgrid="false"
-     inkscape:zoom="32.899417"
-     inkscape:cx="8.795593"
-     inkscape:cy="24.584163"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:lockguides="true"
+     inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="17.586721"
+     inkscape:cx="0.67388899"
+     inkscape:zoom="13.472353"
+     showgrid="false"
+     id="namedview25"
+     inkscape:window-height="1024"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <rect
-     id="hint-tile-center"
-     width="1"
-     height="1"
-     x="0"
+     style="opacity:0.01;fill:#001e2c;fill-opacity:1;stroke:none"
      y="3"
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
+     x="0"
+     height="1"
+     width="1"
+     id="hint-tile-center" />
   <rect
-     id="hint-bar-size"
-     width="3"
-     height="3"
-     x="3"
+     style="opacity:0.01;fill:#001e2c;fill-opacity:1;stroke:none"
      y="0"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     x="3"
+     height="3"
+     width="3"
+     id="hint-bar-size" />
   <path
-     id="bar-inactive-bottomright"
-     d="m 14,17 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="M 14,17.3 V 18 h 1 v -0.7 z"
+     id="bar-inactive-bottomright" />
   <path
-     id="bar-inactive-right"
-     d="m 14,15 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 14,15.9 v 0.7 h 1 v -0.7 z"
+     id="bar-inactive-right" />
   <path
-     id="bar-inactive-topright"
-     d="m 14,13 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 14,14.5 v 0.7 h 1 v -0.7 z"
+     id="bar-inactive-topright" />
   <path
-     id="bar-inactive-bottomleft"
-     d="m 10,17 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="M 10,17.3 V 18 h 1 v -0.7 z"
+     id="bar-inactive-bottomleft" />
   <path
-     id="bar-inactive-left"
-     d="m 10,15 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 10,15.9 v 0.7 h 1 v -0.7 z"
+     id="bar-inactive-left" />
   <path
-     id="bar-inactive-topleft"
-     d="m 11,13 -1,0 0,1 1,0 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 11,14.5 h -1 v 0.7 h 1 z"
+     id="bar-inactive-topleft" />
   <path
-     id="bar-inactive-bottom"
-     d="m 12,17 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="M 12,17.3 V 18 h 1 v -0.7 z"
+     id="bar-inactive-bottom" />
   <path
-     id="bar-inactive-center"
-     d="m 13,15 -1,0 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 13,15.9 h -1 v 0.7 h 1 z"
+     id="bar-inactive-center" />
   <path
-     id="bar-inactive-top"
-     d="m 12,13 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#010102;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 12,14.5 v 0.7 h 1 v -0.7 z"
+     id="bar-inactive-top" />
   <path
-     id="bar-active-bottomright"
-     d="m 14,26 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="M 14,26.3 V 27 h 1 v -0.7 z"
+     id="bar-active-bottomright" />
   <path
-     id="bar-active-right"
-     d="m 14,24 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 14,24.9 v 0.7 h 1 v -0.7 z"
+     id="bar-active-right" />
   <path
-     id="bar-active-topright"
-     d="m 14,22 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 14,23.5 v 0.7 h 1 v -0.7 z"
+     id="bar-active-topright" />
   <path
-     id="bar-active-bottomleft"
-     d="m 10,26 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="M 10,26.3 V 27 h 1 v -0.7 z"
+     id="bar-active-bottomleft" />
   <path
-     id="bar-active-left"
-     d="m 10,24 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 10,24.9 v 0.7 h 1 v -0.7 z"
+     id="bar-active-left" />
   <path
-     id="bar-active-topleft"
-     d="m 11,22 -1,0 0,1 1,0 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 11,23.5 h -1 v 0.7 h 1 z"
+     id="bar-active-topleft" />
   <path
-     id="bar-active-bottom"
-     d="m 12,26 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="M 12,26.3 V 27 h 1 v -0.7 z"
+     id="bar-active-bottom" />
   <path
-     id="bar-active-center"
-     d="m 13,24 -1,0 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 13,24.9 h -1 v 0.7 h 1 z"
+     id="bar-active-center" />
   <path
-     id="bar-active-top"
-     d="m 12,22 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none;stroke-width:0.83665997"
+     d="m 12,23.5 v 0.7 h 1 v -0.7 z"
+     id="bar-active-top" />
   <rect
-     id="hint-stretch-borders"
-     width="1"
-     height="1"
-     x="0"
+     style="opacity:0.01;fill:#001e2c;fill-opacity:1;stroke:none"
      y="8"
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none" />
-  <rect
-     id="hint-bar-stretch"
-     width="1"
-     height="1"
      x="0"
+     height="1"
+     width="1"
+     id="hint-stretch-borders" />
+  <rect
+     style="opacity:0.01;fill:#001e2c;fill-opacity:1;stroke:none"
      y="13"
-     style="opacity:1;fill:#ff6bff;fill-opacity:1;stroke:none" />
+     x="0"
+     height="1"
+     width="1"
+     id="hint-bar-stretch" />
 </svg>
