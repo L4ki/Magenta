@@ -51,3 +51,8 @@ Widget correction: tasks.svg
 
 Modified Icons: applications.svg, bookmarks.svg, computer.svg, system.svg, view.svg, start.svg
 
+Changelog: 25.06.2020.
+----------------------
+
+Redesigned Theme
+
